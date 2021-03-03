@@ -2,5 +2,5 @@ The Rainbow
 blue
 blue
 dark blue
-greeb
+green
 red
